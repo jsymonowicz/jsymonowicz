@@ -8,7 +8,7 @@ I am proud to be recognized as a pioneer in hardware for AI, as highlighted in t
 
 ## What You'll Find Here
 
-The repositories presented in my GitHub are a result of the Data Science Bootcamp from HyperionDev, where I honed my skills in machine learning algorithms and data science.
+The repositories presented on my GitHub are the result of my work at the University of Cambridge, TU Wien, and a Data Science Bootcamp at HyperionDev, and also my personal projects reflecting my interest in algorithmic thinking.
 
 ## Repositories Highlights
 
